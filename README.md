@@ -1,4 +1,4 @@
-# Ex.No:4 To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
+# Ex.No:2b To create a two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
 
 ## AIM:
@@ -12,6 +12,13 @@ Latest Version Android Studio
 
 ## ALGORITHM:
 
+    1. Start the application.
+    2. Click the Next button on the main activity.
+    3. Create an explicit intent specifying SecondActivity.
+    4. Start the intent to open the second activity.
+    5. Click the Home button on the second activity.
+    6. Create an intent to return to MainActivity.
+    7. Start the intent to return to the main activity.
 
 
 ## PROGRAM:
@@ -92,6 +99,10 @@ public class SecondActivity extends AppCompatActivity {
 ## OUTPUT
 
 <img width="1040" height="941" alt="image" src="https://github.com/user-attachments/assets/0b9bb697-821e-4652-91ba-e0cf133a923a" />
+<img width="943" height="797" alt="image" src="https://github.com/user-attachments/assets/0b067c29-35c0-4baf-954e-dd0e4c4a6dae" />
+
+<img width="187" height="416" alt="image" src="https://github.com/user-attachments/assets/7868fe48-35f4-43c9-b966-861da2d586bd" />
+<img width="187" height="415" alt="image" src="https://github.com/user-attachments/assets/4d2152f6-60ed-4d7f-9ee4-70eff0e15c8e" />
 
 
 
